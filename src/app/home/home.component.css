@@ -1,18 +1,18 @@
 .section-showcase {
-    height:460px;
-    background: url(../../assets/images/calendar-2.jpg) no-repeat bottom center;
+    height:680px;
+    background: url(../../assets/images/calendar-2.jpg) no-repeat center;
     background-size: cover;
     z-index: 3;
 }
 
 .text-title{
     vertical-align: middle;
-    padding-top: 3%;
-    padding-bottom: 2%;
+    padding-top: 10%;
+    padding-bottom: 5%;
 }
 
 .text-title h1 { 
-    margin-top: 5%;
+    margin-top: 15%;
     font-family: "acta-display", Georgia, Times New Roman, serif !important; 
     font-size: 85px; 
     font-weight: 320;

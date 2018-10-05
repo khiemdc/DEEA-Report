@@ -1,3 +1,10 @@
 @import '~@angular/material/prebuilt-themes/indigo-pink.css';
 @import "~bootstrap/dist/css/bootstrap.css";
 @import "~font-awesome/css/font-awesome.css";
+
+.section-showcase {
+    height:680px;
+    /* background: url(../../assets/images/calendar-2.jpg) no-repeat top center; */
+    background-size: cover;
+    z-index: 3;
+}

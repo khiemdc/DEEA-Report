@@ -15,6 +15,7 @@ import { BsDropdownModule } from 'ngx-bootstrap';
 import { EmployeeListComponent } from './employee/employeeList.component';
 import { EmployeeCountComponent } from './employee/employeeCount.component';
 import { MonthlyReportComponent } from './monthly-report/monthly-report.component';
+import { WeeklyReportComponent } from './weekly-report/weekly-report.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { MonthlyReportComponent } from './monthly-report/monthly-report.componen
     HomeComponent,
     FooterComponent,
     EmployeeListComponent,
-    EmployeeCountComponent
+    EmployeeCountComponent,
+    WeeklyReportComponent
   ],
   imports: [
     BrowserModule,
